@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'ExampleReadTheDocs'
+project = 'Read The Docs Türkçe Kaynak'
 copyright = '2022, Bahadır TOP'
 author = 'Bahadır TOP'
 release = 'C:\\Users\\Bahadır\\source\\ReadTheDocs'
